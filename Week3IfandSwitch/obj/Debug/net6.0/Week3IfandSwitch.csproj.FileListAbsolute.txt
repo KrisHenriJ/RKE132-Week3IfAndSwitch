@@ -1,0 +1,15 @@
+/Users/kris/Projects/Week3IfandSwitch/Week3IfandSwitch/bin/Debug/net6.0/Week3IfandSwitch
+/Users/kris/Projects/Week3IfandSwitch/Week3IfandSwitch/bin/Debug/net6.0/Week3IfandSwitch.deps.json
+/Users/kris/Projects/Week3IfandSwitch/Week3IfandSwitch/bin/Debug/net6.0/Week3IfandSwitch.runtimeconfig.json
+/Users/kris/Projects/Week3IfandSwitch/Week3IfandSwitch/bin/Debug/net6.0/Week3IfandSwitch.dll
+/Users/kris/Projects/Week3IfandSwitch/Week3IfandSwitch/bin/Debug/net6.0/Week3IfandSwitch.pdb
+/Users/kris/Projects/Week3IfandSwitch/Week3IfandSwitch/obj/Debug/net6.0/Week3IfandSwitch.csproj.AssemblyReference.cache
+/Users/kris/Projects/Week3IfandSwitch/Week3IfandSwitch/obj/Debug/net6.0/Week3IfandSwitch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kris/Projects/Week3IfandSwitch/Week3IfandSwitch/obj/Debug/net6.0/Week3IfandSwitch.AssemblyInfoInputs.cache
+/Users/kris/Projects/Week3IfandSwitch/Week3IfandSwitch/obj/Debug/net6.0/Week3IfandSwitch.AssemblyInfo.cs
+/Users/kris/Projects/Week3IfandSwitch/Week3IfandSwitch/obj/Debug/net6.0/Week3IfandSwitch.csproj.CoreCompileInputs.cache
+/Users/kris/Projects/Week3IfandSwitch/Week3IfandSwitch/obj/Debug/net6.0/Week3IfandSwitch.dll
+/Users/kris/Projects/Week3IfandSwitch/Week3IfandSwitch/obj/Debug/net6.0/refint/Week3IfandSwitch.dll
+/Users/kris/Projects/Week3IfandSwitch/Week3IfandSwitch/obj/Debug/net6.0/Week3IfandSwitch.pdb
+/Users/kris/Projects/Week3IfandSwitch/Week3IfandSwitch/obj/Debug/net6.0/Week3IfandSwitch.genruntimeconfig.cache
+/Users/kris/Projects/Week3IfandSwitch/Week3IfandSwitch/obj/Debug/net6.0/ref/Week3IfandSwitch.dll
